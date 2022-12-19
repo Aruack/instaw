@@ -91,15 +91,15 @@ python main.py -u USERNAME -p PASSWORD -o unfollow-all
 
 ## Examples:
 
-<b>python main.py -u USERNAME -p PASSWORD -o follow-tag -t cat</b> : **Follow users using the tag 'cat'** 
+**python main.py -u USERNAME -p PASSWORD -o follow-tag -t cat** : *Follow users using the tag 'cat'* 
 
-*python main.py -u USERNAME -p PASSWORD -o follow-location -t 127963847* : **Follow users from Spain** 
+**python main.py -u USERNAME -p PASSWORD -o follow-location -t 127963847** : *Follow users from Spain*
 
-*python main.py -u USERNAME -p PASSWORD -o super-followback*: **Now you are following users you didn't follow but they followed you**
+**python main.py -u USERNAME -p PASSWORD -o super-followback**: *Now you are following users you didn't follow but they followed you*
 
-*python main.py -u USERNAME -p PASSWORD -o follow-list -t userlist.txt* : **Follow users in each line of userlist.txt** 
+**python main.py -u USERNAME -p PASSWORD -o follow-list -t userlist.txt** : *Follow users in each line of userlist.txt* 
 
-*python main.py -u USERNAME -p PASSWORD -o super-unfollow*: **Now you are not following users who don't follow you**
+**python main.py -u USERNAME -p PASSWORD -o super-unfollow**: *Now you are not following users who don't follow you*
 
 
 ---------------------
