@@ -38,7 +38,7 @@ Functionality:
 ## Usage: 
 
 ```
-apt install gi
+apt install git
 ```
 
 ```
