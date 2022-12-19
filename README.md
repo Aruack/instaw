@@ -107,7 +107,7 @@ python main.py -u USERNAME -p PASSWORD -o unfollow-all
 
 ## Acknowledgment
 
-[The really good repo is the levpasha's one] (https://github.com/LevPasha/Instagram-API-python) 
+[The really good repo is the levpasha's one](https://github.com/LevPasha/Instagram-API-python) 
 
 ---------------------
 
