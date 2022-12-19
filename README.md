@@ -91,7 +91,7 @@ python main.py -u USERNAME -p PASSWORD -o unfollow-all
 
 ## Examples:
 
-*python main.py -u USERNAME -p PASSWORD -o follow-tag -t cat* : **Follow users using the tag 'cat'** 
+<b>python main.py -u USERNAME -p PASSWORD -o follow-tag -t cat</b> : **Follow users using the tag 'cat'** 
 
 *python main.py -u USERNAME -p PASSWORD -o follow-location -t 127963847* : **Follow users from Spain** 
 
